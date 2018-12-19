@@ -32,7 +32,7 @@
 
 # 更新历史
 
-**v.1.0**	
+**v1.0**	
 > --2018-12-07
 > 建立AD绘图区、功能区、平台姿态区
 > 完成功能：100 ms AD采样、绘图、存储
@@ -43,6 +43,6 @@
 >完成功能：3D平台随数据转动
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MjQ5MTM2NSwtMTg2ODY2ODI4MiwtMT
-Q1OTAxNjY2MV19
+eyJoaXN0b3J5IjpbLTY1NzU5ODcwNywtNzQyNDkxMzY1LC0xOD
+Y4NjY4MjgyLC0xNDU5MDE2NjYxXX0=
 -->
