@@ -29,7 +29,8 @@
 	 >| ----- | --------- | ----------- |
 	 >|  ms  |      mV    | (yaw,pitch,roll) |
 
-## 更新历史
+
+# 更新历史
 
 **v.1.0**	
 > --2018-12-07
@@ -42,6 +43,6 @@
 >完成功能：3D平台随数据转动
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0Nzc4MzU4LC0xODY4NjY4MjgyLC0xND
-U5MDE2NjYxXX0=
+eyJoaXN0b3J5IjpbLTc0MjQ5MTM2NSwtMTg2ODY2ODI4MiwtMT
+Q1OTAxNjY2MV19
 -->
