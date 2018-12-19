@@ -1,6 +1,7 @@
 # RASPI_DASGUI
 
 **树莓派数据采集系统** , **RASPI_DASGUI (Raspberry Data Acquisition System GUI)**
+![enter image description here](https://lh3.googleusercontent.com/Qov-35b-1oHqtha6xiHo90ykOG579XgfSf0ERj-g0NrJpr6nRy8LNwjhgOBJ8zXSCj7OBwBZudw)
 
 # 功能
 
@@ -13,12 +14,15 @@
 
  - UART
 	> - 可配置
+	![enter image description here](https://lh3.googleusercontent.com/uhtWSH3f_3p-i1_2E0vp2Qu30NQV7Vn8ok4HBvjo1KQ9Bc4aox9FJ3al23C57j-XD35B-m0xmkM)
 
 **2. 数据绘图及存储**
 
  - AD 数据绘图
+ ![enter image description here](https://lh3.googleusercontent.com/0G5cH2K5k-AgqMkD5xkHlRllg2GSXVi9pmZ9UuG-76TTq775HsTfK-Hyw2H7smQHa95wpbFfESY)
  
  - 线圈姿态 3D 绘图
+ 
  
  - 数据存储
 	 >| 时间 | AD数据 | 姿态数据 |
@@ -38,6 +42,6 @@
 >完成功能：3D平台随数据转动
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njg2NjgyODIsLTE0NTkwMTY2NjFdfQ
-==
+eyJoaXN0b3J5IjpbMTYwNzE4OTc0MywtMTg2ODY2ODI4MiwtMT
+Q1OTAxNjY2MV19
 -->
