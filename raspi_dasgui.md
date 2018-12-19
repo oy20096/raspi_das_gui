@@ -1,8 +1,6 @@
 # RASPI_DASGUI
 
 **树莓派数据采集系统** , **RASPI_DASGUI (Raspberry Data Acquisition System GUI)**
-![gui](https://github.com/oy20096/raspi_das_gui/blob/master/screenshot/python_2018-12-19_11-16-33.png)
-
 
 # 功能
 
@@ -12,22 +10,23 @@
 	> - 总采样周期：100 mS
 	 >- 采样率：20 kSPS
 	 >- 量程：±5 V，±10 V
+
  - UART
 	> - 可配置
-![uart](https://github.com/oy20096/raspi_das_gui/blob/master/screenshot/python_2018-12-19_11-02-29.png )
 
 **2. 数据绘图及存储**
- - AD 数据绘图
-![ad](https://github.com/oy20096/raspi_das_gui/blob/master/screenshot/python_2018-12-19_11-12-10.png)
- - 线圈姿态 3D 绘图
-![3d](https://github.com/oy20096/raspi_das_gui/blob/master/screenshot/python_2018-12-19_11-13-22.png)
 
+ - AD 数据绘图
+ 
+ - 线圈姿态 3D 绘图
+ 
  - 数据存储
 	 >| 时间 | AD数据 | 姿态数据 |
 	 >| ----- | --------- | ----------- |
 	 >|  ms  |      mV    | (yaw,pitch,roll) |
 
 ## 更新历史
+
 **v.1.0**	
 > --2018-12-07
 > 建立AD绘图区、功能区、平台姿态区
@@ -39,5 +38,6 @@
 >完成功能：3D平台随数据转动
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTkwMTY2NjFdfQ==
+eyJoaXN0b3J5IjpbLTE4Njg2NjgyODIsLTE0NTkwMTY2NjFdfQ
+==
 -->
