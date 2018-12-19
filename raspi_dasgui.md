@@ -22,7 +22,7 @@
  ![enter image description here](https://lh3.googleusercontent.com/0G5cH2K5k-AgqMkD5xkHlRllg2GSXVi9pmZ9UuG-76TTq775HsTfK-Hyw2H7smQHa95wpbFfESY)
  
  - 线圈姿态 3D 绘图
- 
+ ![enter image description here](https://lh3.googleusercontent.com/uoihoyFhTpofuTDB0_GyjKn3tcqXqdZGyevKjc70kshn7v7ryu07lrfbxE4JagTXqGMzo-VXpm4)
  
  - 数据存储
 	 >| 时间 | AD数据 | 姿态数据 |
@@ -42,6 +42,6 @@
 >完成功能：3D平台随数据转动
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzE4OTc0MywtMTg2ODY2ODI4MiwtMT
-Q1OTAxNjY2MV19
+eyJoaXN0b3J5IjpbNTA0Nzc4MzU4LC0xODY4NjY4MjgyLC0xND
+U5MDE2NjYxXX0=
 -->
