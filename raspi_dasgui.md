@@ -3,6 +3,9 @@
 ## RASPI_DAS Hardware System
 >
 >
+>![enter image description here](https://lh3.googleusercontent.com/dXN6l-oOztzY1PDiuZqnhYSdcverij9Ny3apWwql36OjAYsacms6Q0hpf2VHhFhNA4cGhUn3vhs)
+>**零件图**
+>![enter image description here](https://lh3.googleusercontent.com/OKOIQzmPpU0fsEjPEkVWaoa1Gp-BtIrxo4ZtUvD3EZsV-aQAL8sUpHv53fDJj1022KhlFb6fsMo)
 >
 ## RASPI_DAS GUI
 >**树莓派数据采集系统** , **RASPI_DAS GUI (Raspberry Data Acquisition System GUI)**
@@ -48,7 +51,7 @@
 >>完成功能：3D平台随数据转动
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODQ3MzI4MiwtMTc4MTE2NzU5MiwtND
-gxNzY1Njk5LC03NDI0OTEzNjUsLTE4Njg2NjgyODIsLTE0NTkw
-MTY2NjFdfQ==
+eyJoaXN0b3J5IjpbNjA1OTQyOTk3LDE1MDg0NzMyODIsLTE3OD
+ExNjc1OTIsLTQ4MTc2NTY5OSwtNzQyNDkxMzY1LC0xODY4NjY4
+MjgyLC0xNDU5MDE2NjYxXX0=
 -->
