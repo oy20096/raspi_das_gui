@@ -3,7 +3,7 @@
 **树莓派数据采集系统** , **RASPI_DASGUI (Raspberry Data Acquisition System GUI)**
 ![enter image description here](https://lh3.googleusercontent.com/Qov-35b-1oHqtha6xiHo90ykOG579XgfSf0ERj-g0NrJpr6nRy8LNwjhgOBJ8zXSCj7OBwBZudw)
 
-# 功能
+## 功能
 
 **1. 实时数据采集**
 
@@ -30,7 +30,7 @@
 	 >|  ms  |      mV    | (yaw,pitch,roll) |
 
 
-# 更新历史
+## 更新历史
 
 **v_1.0**	
 > --2018-12-07
@@ -43,6 +43,6 @@
 >完成功能：3D平台随数据转动
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTc2NTY5OSwtNzQyNDkxMzY1LC0xOD
-Y4NjY4MjgyLC0xNDU5MDE2NjYxXX0=
+eyJoaXN0b3J5IjpbNTkzMTczMTI1LC00ODE3NjU2OTksLTc0Mj
+Q5MTM2NSwtMTg2ODY2ODI4MiwtMTQ1OTAxNjY2MV19
 -->
