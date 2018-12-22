@@ -30,6 +30,8 @@
 	 >|  ms  |      mV    | (yaw,pitch,roll) |
 
 
+## 硬件
+
 ## 更新历史
 
 **v_1.0**	
@@ -43,6 +45,6 @@
 >完成功能：3D平台随数据转动
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzMTczMTI1LC00ODE3NjU2OTksLTc0Mj
-Q5MTM2NSwtMTg2ODY2ODI4MiwtMTQ1OTAxNjY2MV19
+eyJoaXN0b3J5IjpbLTE4NDE4ODcyNzcsLTQ4MTc2NTY5OSwtNz
+QyNDkxMzY1LC0xODY4NjY4MjgyLC0xNDU5MDE2NjYxXX0=
 -->
