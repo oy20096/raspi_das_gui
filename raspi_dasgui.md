@@ -34,9 +34,9 @@
 > ![enter image description here](https://lh3.googleusercontent.com/uoihoyFhTpofuTDB0_GyjKn3tcqXqdZGyevKjc70kshn7v7ryu07lrfbxE4JagTXqGMzo-VXpm4)
 >
 > - 数据存储
-	 >| 时间 | AD数据 | 姿态数据 |
-	 >| ----- | --------- | ----------- |
-	 >|  ms  |      mV    | (yaw,pitch,roll) |
+	> >| 时间 | AD数据 | 姿态数据 |
+	 >>| ----- | --------- | ----------- |
+	 >>|  ms  |      mV    | (yaw,pitch,roll) |
 >
 >### 更新历史
 >
@@ -52,7 +52,7 @@
 >>完成功能：3D平台随数据转动
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE2NjEyNjgsMTUwODQ3MzI4MiwtMT
-c4MTE2NzU5MiwtNDgxNzY1Njk5LC03NDI0OTEzNjUsLTE4Njg2
-NjgyODIsLTE0NTkwMTY2NjFdfQ==
+eyJoaXN0b3J5IjpbNzU5MjMzNTg0LC0yMTQxNjYxMjY4LDE1MD
+g0NzMyODIsLTE3ODExNjc1OTIsLTQ4MTc2NTY5OSwtNzQyNDkx
+MzY1LC0xODY4NjY4MjgyLC0xNDU5MDE2NjYxXX0=
 -->
