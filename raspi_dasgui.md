@@ -33,9 +33,9 @@
 >	> ![enter image description here](https://lh3.googleusercontent.com/sMzo3NVspxWTXcn8T9oy8UaSgx95pWKf_E0Isr-b1dU287lZNl9w9pmp45EP3GMQfQxdIt8GAH8)
 > 
 > - 数据存储
-	> >| 时间 | AD数据 | 姿态数据 |
-	 >>| ----- | --------- | ----------- |
-	 >>|  ms  |      mV    | (yaw,pitch,roll) |
+>	>| 时间 | AD数据 | 姿态数据 |
+>	>| ----- | --------- | ----------- |
+>	>|  ms  |      mV    | (yaw,pitch,roll) |
 >
 >### 更新历史
 >
@@ -49,9 +49,10 @@
 >>--2018-12-19
 >>修复读取数据处理不准确问题
 >>完成功能：3D平台随数据转动
+> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMDYxMjU3MSwxNTQyODcwNCw3NTkyMz
+eyJoaXN0b3J5IjpbLTI1Nzg4MTM3NywxNTQyODcwNCw3NTkyMz
 M1ODQsLTIxNDE2NjEyNjgsMTUwODQ3MzI4MiwtMTc4MTE2NzU5
 MiwtNDgxNzY1Njk5LC03NDI0OTEzNjUsLTE4Njg2NjgyODIsLT
 E0NTkwMTY2NjFdfQ==
