@@ -37,6 +37,10 @@
 >	>| ----- | --------- | ----------- |
 >	>|  ms  |      mV    | (yaw,pitch,roll) |
 >
+>**3. 功能选择**
+>
+>
+>
 >### 更新历史
 >
 > - **v_1.0**
@@ -52,10 +56,11 @@
 >
 > - **v_1.2**
 > >--2018-12-26
+> >删除
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDgwMTM2NjAsMTU0Mjg3MDQsNzU5Mj
-MzNTg0LC0yMTQxNjYxMjY4LDE1MDg0NzMyODIsLTE3ODExNjc1
-OTIsLTQ4MTc2NTY5OSwtNzQyNDkxMzY1LC0xODY4NjY4MjgyLC
-0xNDU5MDE2NjYxXX0=
+eyJoaXN0b3J5IjpbMTc0MzcyNzE0MSwxNTQyODcwNCw3NTkyMz
+M1ODQsLTIxNDE2NjEyNjgsMTUwODQ3MzI4MiwtMTc4MTE2NzU5
+MiwtNDgxNzY1Njk5LC03NDI0OTEzNjUsLTE4Njg2NjgyODIsLT
+E0NTkwMTY2NjFdfQ==
 -->
