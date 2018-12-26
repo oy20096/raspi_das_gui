@@ -39,9 +39,13 @@
 >
 >**3. 功能区域**
 >
-> - 功能选择
-> ![enter image description here](https://lh3.googleusercontent.com/dB7v0mbiDdAo05irNXJdriPDXqhBP5kw-QPCrwFOuHlUCVg0TyEh4zP9oE8UUA0OadVv1SDx6-w)
+> - 功能按钮
+>	> ![enter image description here](https://lh3.googleusercontent.com/dB7v0mbiDdAo05irNXJdriPDXqhBP5kw-QPCrwFOuHlUCVg0TyEh4zP9oE8UUA0OadVv1SDx6-w)
 >
+> - 输入输出
+>
+>	>![enter image description here](https://lh3.googleusercontent.com/AGL7uIooCHYA3YIkLMPo1R88fc5S5336FSWOt1UsBT8eVkVAO0Yb9cpP9IuvHXqyEzzh6ZkPzdQ)
+>	>![enter image description here](https://lh3.googleusercontent.com/gXyNpKMyKVp72F9MLvKmdvdVp72Tu4ckQ_XAdG33su5Bh9Su1WWuvN_t4cY2Yn3RsLwnYmVmi8g)
 >
 >### 更新历史
 >
@@ -61,8 +65,8 @@
 > >删除
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY0NTgyNTYsMTU0Mjg3MDQsNzU5Mj
-MzNTg0LC0yMTQxNjYxMjY4LDE1MDg0NzMyODIsLTE3ODExNjc1
-OTIsLTQ4MTc2NTY5OSwtNzQyNDkxMzY1LC0xODY4NjY4MjgyLC
-0xNDU5MDE2NjYxXX0=
+eyJoaXN0b3J5IjpbMTM1NTEzMjQ1MCwxNTQyODcwNCw3NTkyMz
+M1ODQsLTIxNDE2NjEyNjgsMTUwODQ3MzI4MiwtMTc4MTE2NzU5
+MiwtNDgxNzY1Njk5LC03NDI0OTEzNjUsLTE4Njg2NjgyODIsLT
+E0NTkwMTY2NjFdfQ==
 -->
