@@ -62,15 +62,16 @@
 >
 > - **v_1.2**
 > >--2018-12-26
-> >移除平台姿态3D绘图
+>	>重新绘制 UI 
+> >移除平台姿态 3D 绘图
 >	>新增输入区
->	>完成串口
+>	>完成串口姿态数据接收发送与处理
 >
 >
 > 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDk4NDgzOCwxNTQyODcwNCw3NTkyMz
+eyJoaXN0b3J5IjpbLTcyNzQzNjk2NCwxNTQyODcwNCw3NTkyMz
 M1ODQsLTIxNDE2NjEyNjgsMTUwODQ3MzI4MiwtMTc4MTE2NzU5
 MiwtNDgxNzY1Njk5LC03NDI0OTEzNjUsLTE4Njg2NjgyODIsLT
 E0NTkwMTY2NjFdfQ==
