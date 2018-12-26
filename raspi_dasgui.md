@@ -10,8 +10,7 @@
 >
 ## RASPI_DAS GUI
 >**树莓派数据采集系统** , **RASPI_DAS GUI (Raspberry Data Acquisition System GUI)**
-![enter image description here](https://lh3.googleusercontent.com/Qov-35b-1oHqtha6xiHo90ykOG579XgfSf0ERj-g0NrJpr6nRy8LNwjhgOBJ8zXSCj7OBwBZudw)
->
+>![enter image description here](https://lh3.googleusercontent.com/j1f_oFytvIL7zqkOs5S4kOtsTgar0B-EWWf-C_3O-gb0mPCBv8jto6zc8akDzu60FbMBY-K_fOE)
 >### 功能
 >
 >**1. 实时数据采集**
@@ -30,7 +29,7 @@
 > - AD 数据绘图
  ![enter image description here](https://lh3.googleusercontent.com/0G5cH2K5k-AgqMkD5xkHlRllg2GSXVi9pmZ9UuG-76TTq775HsTfK-Hyw2H7smQHa95wpbFfESY)
 > 
-> - 线圈姿态 3D 绘图
+> - 线圈姿态
 > ![enter image description here](https://lh3.googleusercontent.com/uoihoyFhTpofuTDB0_GyjKn3tcqXqdZGyevKjc70kshn7v7ryu07lrfbxE4JagTXqGMzo-VXpm4)
 >
 > - 数据存储
@@ -52,7 +51,8 @@
 >>完成功能：3D平台随数据转动
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5MjMzNTg0LC0yMTQxNjYxMjY4LDE1MD
-g0NzMyODIsLTE3ODExNjc1OTIsLTQ4MTc2NTY5OSwtNzQyNDkx
-MzY1LC0xODY4NjY4MjgyLC0xNDU5MDE2NjYxXX0=
+eyJoaXN0b3J5IjpbODI5NzQ5MjIxLDc1OTIzMzU4NCwtMjE0MT
+Y2MTI2OCwxNTA4NDczMjgyLC0xNzgxMTY3NTkyLC00ODE3NjU2
+OTksLTc0MjQ5MTM2NSwtMTg2ODY2ODI4MiwtMTQ1OTAxNjY2MV
+19
 -->
