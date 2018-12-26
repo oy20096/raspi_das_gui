@@ -16,21 +16,21 @@
 >**1. 实时数据采集**
 >
  >- AD
-	> - 总采样周期：100 mS
-	 >- 采样率：20 kSPS
-	 >- 量程：±5 V，±10 V
+>	 > - 总采样周期：100 mS
+>	 >- 采样率：20 kSPS
+>	 >- 量程：±5 V，±10 V
 >
 > - UART
-	> - 可配置
-	![enter image description here](https://lh3.googleusercontent.com/uhtWSH3f_3p-i1_2E0vp2Qu30NQV7Vn8ok4HBvjo1KQ9Bc4aox9FJ3al23C57j-XD35B-m0xmkM)
+>	> - 可配置
+	>![enter image description here](https://lh3.googleusercontent.com/fkvwDeu7nUp8_HvrltXF8LGcXK5qiXH1VsmtGQ_QmNA-myi2SUkUwpXA_QHdmUY5zUpn-b5aYDc)
 >
 >**2. 数据绘图及存储**
 >
 > - AD 数据绘图
- ![enter image description here](https://lh3.googleusercontent.com/0G5cH2K5k-AgqMkD5xkHlRllg2GSXVi9pmZ9UuG-76TTq775HsTfK-Hyw2H7smQHa95wpbFfESY)
+>	>![enter image description here](https://lh3.googleusercontent.com/nzW7FB8V1qPKEYeElRnddJ5wqyeifMG8O4-wY-nDcJ0yuqzUoshw51ING07DTov5eeeMz_mWeto)
 > 
 > - 线圈姿态
-> 
+>	> ![enter image description here](https://lh3.googleusercontent.com/sMzo3NVspxWTXcn8T9oy8UaSgx95pWKf_E0Isr-b1dU287lZNl9w9pmp45EP3GMQfQxdIt8GAH8)
 > 
 > - 数据存储
 	> >| 时间 | AD数据 | 姿态数据 |
@@ -51,8 +51,8 @@
 >>完成功能：3D平台随数据转动
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Mjg3MDQsNzU5MjMzNTg0LC0yMTQxNj
-YxMjY4LDE1MDg0NzMyODIsLTE3ODExNjc1OTIsLTQ4MTc2NTY5
-OSwtNzQyNDkxMzY1LC0xODY4NjY4MjgyLC0xNDU5MDE2NjYxXX
-0=
+eyJoaXN0b3J5IjpbMTQyMDYxMjU3MSwxNTQyODcwNCw3NTkyMz
+M1ODQsLTIxNDE2NjEyNjgsMTUwODQ3MzI4MiwtMTc4MTE2NzU5
+MiwtNDgxNzY1Njk5LC03NDI0OTEzNjUsLTE4Njg2NjgyODIsLT
+E0NTkwMTY2NjFdfQ==
 -->
