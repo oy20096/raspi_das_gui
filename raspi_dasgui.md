@@ -9,6 +9,11 @@
 >**零件图**
 >![enter image description here](https://lh3.googleusercontent.com/OKOIQzmPpU0fsEjPEkVWaoa1Gp-BtIrxo4ZtUvD3EZsV-aQAL8sUpHv53fDJj1022KhlFb6fsMo)
 >
+>**总连接图**
+>
+>
+>
+>
 ## RASPI_DAS GUI
 >**树莓派数据采集系统** , **RASPI_DAS GUI (Raspberry Data Acquisition System GUI)**
 >![enter image description here](https://lh3.googleusercontent.com/j1f_oFytvIL7zqkOs5S4kOtsTgar0B-EWWf-C_3O-gb0mPCBv8jto6zc8akDzu60FbMBY-K_fOE)
@@ -70,7 +75,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDMxNTc1NCwxOTAxNzg1OTE4LDE1ND
+eyJoaXN0b3J5IjpbMTE1MDE2NDM1MCwxOTAxNzg1OTE4LDE1ND
 I4NzA0LDc1OTIzMzU4NCwtMjE0MTY2MTI2OCwxNTA4NDczMjgy
 LC0xNzgxMTY3NTkyLC00ODE3NjU2OTksLTc0MjQ5MTM2NSwtMT
 g2ODY2ODI4MiwtMTQ1OTAxNjY2MV19
