@@ -62,10 +62,15 @@
 >
 > - **v_1.2**
 > >--2018-12-26
-> >删除
+> >移除平台姿态3D绘图
+>	>新增输入区
+>	>完成串口
+>
+>
+> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTEzMjQ1MCwxNTQyODcwNCw3NTkyMz
+eyJoaXN0b3J5IjpbMTkzNDk4NDgzOCwxNTQyODcwNCw3NTkyMz
 M1ODQsLTIxNDE2NjEyNjgsMTUwODQ3MzI4MiwtMTc4MTE2NzU5
 MiwtNDgxNzY1Njk5LC03NDI0OTEzNjUsLTE4Njg2NjgyODIsLT
 E0NTkwMTY2NjFdfQ==
