@@ -23,7 +23,7 @@
 >**1. 实时数据采集**
 >
  >- AD
->	>
+>	> - 3 通道同步采样
 >	 > - 总采样周期：100 mS
 >	 >- 采样率：20 kSPS
 >	 >- 量程：±5 V，±10 V
@@ -35,7 +35,7 @@
 >**2. 数据绘图及存储**
 >
 > - AD 数据绘图
->	>![enter image description here](https://lh3.googleusercontent.com/nzW7FB8V1qPKEYeElRnddJ5wqyeifMG8O4-wY-nDcJ0yuqzUoshw51ING07DTov5eeeMz_mWeto)
+>	>![enter image description here](https://lh3.googleusercontent.com/i1CoVfLY-qbYw5JXJAadLRQ-jZICgBmP-x5uHSTd8v3_GTVScqbP5XNPo1KihyOWoxOcS_xVC24)
 > 
 > - 线圈姿态
 >	> ![enter image description here](https://lh3.googleusercontent.com/sMzo3NVspxWTXcn8T9oy8UaSgx95pWKf_E0Isr-b1dU287lZNl9w9pmp45EP3GMQfQxdIt8GAH8)
@@ -74,12 +74,18 @@
 > >移除平台姿态 3D 绘图
 >	>新增输入区
 >	>完成串口姿态数据接收发送与处理
+>
+> - **v_1.3**
+> >--2018-12-27
+>	>重新绘制 UI 
+> >新增 3 tong'd
+>	>新增输入区
+>	>完成串口姿态数据接收发送与处理
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDk4OTc4NDAsLTE3MDIzNjc0NDAsMT
-kwMTc4NTkxOCwxNTQyODcwNCw3NTkyMzM1ODQsLTIxNDE2NjEy
-NjgsMTUwODQ3MzI4MiwtMTc4MTE2NzU5MiwtNDgxNzY1Njk5LC
-03NDI0OTEzNjUsLTE4Njg2NjgyODIsLTE0NTkwMTY2NjFdfQ==
-
+eyJoaXN0b3J5IjpbMTAxMjQyMjY1NCwtMTcwMjM2NzQ0MCwxOT
+AxNzg1OTE4LDE1NDI4NzA0LDc1OTIzMzU4NCwtMjE0MTY2MTI2
+OCwxNTA4NDczMjgyLC0xNzgxMTY3NTkyLC00ODE3NjU2OTksLT
+c0MjQ5MTM2NSwtMTg2ODY2ODI4MiwtMTQ1OTAxNjY2MV19
 -->
