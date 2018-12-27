@@ -75,17 +75,17 @@
 >	>新增输入区
 >	>完成串口姿态数据接收发送与处理
 >
-> - **v_1.3**
-> >--2018-12-27
+>	> - **v_1.2.1**
+>	> >--2018-12-27
 >	>重新绘制 UI 
-> >新增 3 tong'd
->	>新增输入区
->	>完成串口姿态数据接收发送与处理
+>  >新增 3 通道采样功能及绘图区
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMjQyMjY1NCwtMTcwMjM2NzQ0MCwxOT
-AxNzg1OTE4LDE1NDI4NzA0LDc1OTIzMzU4NCwtMjE0MTY2MTI2
-OCwxNTA4NDczMjgyLC0xNzgxMTY3NTkyLC00ODE3NjU2OTksLT
-c0MjQ5MTM2NSwtMTg2ODY2ODI4MiwtMTQ1OTAxNjY2MV19
+eyJoaXN0b3J5IjpbLTE2MjI2MDI3NTAsLTE3MDIzNjc0NDAsMT
+kwMTc4NTkxOCwxNTQyODcwNCw3NTkyMzM1ODQsLTIxNDE2NjEy
+NjgsMTUwODQ3MzI4MiwtMTc4MTE2NzU5MiwtNDgxNzY1Njk5LC
+03NDI0OTEzNjUsLTE4Njg2NjgyODIsLTE0NTkwMTY2NjFdfQ==
+
 -->
