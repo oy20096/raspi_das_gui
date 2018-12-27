@@ -16,12 +16,14 @@
 >
 ## RASPI_DAS GUI
 >**树莓派数据采集系统** , **RASPI_DAS GUI (Raspberry Data Acquisition System GUI)**
->![enter image description here](https://lh3.googleusercontent.com/j1f_oFytvIL7zqkOs5S4kOtsTgar0B-EWWf-C_3O-gb0mPCBv8jto6zc8akDzu60FbMBY-K_fOE)
+>![enter image description here](https://lh3.googleusercontent.com/X7P7rn01oChvFHqsY1E8TiD6SFt4s2X_w5MVzOVDFU5EIp0xo3lWiwdzJPwr-ZadAFTq1YNR_zM)
+>
 >### 功能
 >
 >**1. 实时数据采集**
 >
  >- AD
+>	>
 >	 > - 总采样周期：100 mS
 >	 >- 采样率：20 kSPS
 >	 >- 量程：±5 V，±10 V
@@ -75,8 +77,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDIzNjc0NDAsMTkwMTc4NTkxOCwxNT
-QyODcwNCw3NTkyMzM1ODQsLTIxNDE2NjEyNjgsMTUwODQ3MzI4
-MiwtMTc4MTE2NzU5MiwtNDgxNzY1Njk5LC03NDI0OTEzNjUsLT
-E4Njg2NjgyODIsLTE0NTkwMTY2NjFdfQ==
+eyJoaXN0b3J5IjpbLTE2NDk4OTc4NDAsLTE3MDIzNjc0NDAsMT
+kwMTc4NTkxOCwxNTQyODcwNCw3NTkyMzM1ODQsLTIxNDE2NjEy
+NjgsMTUwODQ3MzI4MiwtMTc4MTE2NzU5MiwtNDgxNzY1Njk5LC
+03NDI0OTEzNjUsLTE4Njg2NjgyODIsLTE0NTkwMTY2NjFdfQ==
+
 -->
