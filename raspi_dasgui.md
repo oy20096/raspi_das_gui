@@ -16,7 +16,7 @@
 >
 ## RASPI_DAS GUI
 >**树莓派数据采集系统** , **RASPI_DAS GUI (Raspberry Data Acquisition System GUI)**
->![enter image description here](https://lh3.googleusercontent.com/X7P7rn01oChvFHqsY1E8TiD6SFt4s2X_w5MVzOVDFU5EIp0xo3lWiwdzJPwr-ZadAFTq1YNR_zM)
+>![enter image description here](https://lh3.googleusercontent.com/HMAJRKneWbIVVm6FbawJW6ZR3BF7Ed4Ed5Vvc6tiiaKwUe_R4zyWJPRtm6B9FMoFabfbBWE5gqM)
 >
 >### 功能
 >
@@ -31,6 +31,8 @@
 > - UART
 >	> - 可配置
 	>![enter image description here](https://lh3.googleusercontent.com/fkvwDeu7nUp8_HvrltXF8LGcXK5qiXH1VsmtGQ_QmNA-myi2SUkUwpXA_QHdmUY5zUpn-b5aYDc)
+>
+> - 当前测试点示意图
 >
 >**2. 数据绘图及存储**
 >
@@ -84,9 +86,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjEwMjYwNzYsLTE2MjI2MDI3NTAsLT
-E3MDIzNjc0NDAsMTkwMTc4NTkxOCwxNTQyODcwNCw3NTkyMzM1
-ODQsLTIxNDE2NjEyNjgsMTUwODQ3MzI4MiwtMTc4MTE2NzU5Mi
-wtNDgxNzY1Njk5LC03NDI0OTEzNjUsLTE4Njg2NjgyODIsLTE0
-NTkwMTY2NjFdfQ==
+eyJoaXN0b3J5IjpbMTU5NDI1ODQxOCwtMTI2MTAyNjA3NiwtMT
+YyMjYwMjc1MCwtMTcwMjM2NzQ0MCwxOTAxNzg1OTE4LDE1NDI4
+NzA0LDc1OTIzMzU4NCwtMjE0MTY2MTI2OCwxNTA4NDczMjgyLC
+0xNzgxMTY3NTkyLC00ODE3NjU2OTksLTc0MjQ5MTM2NSwtMTg2
+ODY2ODI4MiwtMTQ1OTAxNjY2MV19
 -->
