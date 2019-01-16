@@ -88,12 +88,12 @@
 > - **v_1.3**
 >  >--2019-1-14
 >  >重新绘制UI
->  >增加当前测试点示意图hui'tu
+>  >增加当前测试点示意图绘图
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODY3ODE3NSwxNjkyODE2OTgwLC0xMj
+eyJoaXN0b3J5IjpbMTAzMTIyODgzNywxNjkyODE2OTgwLC0xMj
 YxMDI2MDc2LC0xNjIyNjAyNzUwLC0xNzAyMzY3NDQwLDE5MDE3
 ODU5MTgsMTU0Mjg3MDQsNzU5MjMzNTg0LC0yMTQxNjYxMjY4LD
 E1MDg0NzMyODIsLTE3ODExNjc1OTIsLTQ4MTc2NTY5OSwtNzQy
