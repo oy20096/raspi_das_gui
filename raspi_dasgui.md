@@ -85,12 +85,15 @@
 >	>重新绘制 UI 
 >  >新增 3 通道采样功能及绘图区
 >
->
+> - **v_1.3**
+>  >--2019-1-14
+>  >重新绘制UI
+>  >增加当前测试点示意图hui'tu
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTE3MDU3MiwxNjkyODE2OTgwLC0xMj
+eyJoaXN0b3J5IjpbMTg0ODY3ODE3NSwxNjkyODE2OTgwLC0xMj
 YxMDI2MDc2LC0xNjIyNjAyNzUwLC0xNzAyMzY3NDQwLDE5MDE3
 ODU5MTgsMTU0Mjg3MDQsNzU5MjMzNTg0LC0yMTQxNjYxMjY4LD
 E1MDg0NzMyODIsLTE3ODExNjc1OTIsLTQ4MTc2NTY5OSwtNzQy
