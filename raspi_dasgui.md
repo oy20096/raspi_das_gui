@@ -33,7 +33,8 @@
 	>![enter image description here](https://lh3.googleusercontent.com/fkvwDeu7nUp8_HvrltXF8LGcXK5qiXH1VsmtGQ_QmNA-myi2SUkUwpXA_QHdmUY5zUpn-b5aYDc)
 >
 > - 当前测试点示意图
-	> >	
+>	>
+>	>	![enter image description here](https://lh3.googleusercontent.com/enBpkMvLsSoM5bYquRG1qxb1M5JZzq0I7jpbWbPTklsNTwL8yuLwEsZbUSH_yUp4Xm96IpcSe1c)
 >
 >**2. 数据绘图及存储**
 >
@@ -83,13 +84,15 @@
 >	> >--2018-12-27
 >	>重新绘制 UI 
 >  >新增 3 通道采样功能及绘图区
+>
+>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjgxNjk4MCwtMTI2MTAyNjA3NiwtMT
-YyMjYwMjc1MCwtMTcwMjM2NzQ0MCwxOTAxNzg1OTE4LDE1NDI4
-NzA0LDc1OTIzMzU4NCwtMjE0MTY2MTI2OCwxNTA4NDczMjgyLC
-0xNzgxMTY3NTkyLC00ODE3NjU2OTksLTc0MjQ5MTM2NSwtMTg2
-ODY2ODI4MiwtMTQ1OTAxNjY2MV19
+eyJoaXN0b3J5IjpbLTQyNTE3MDU3MiwxNjkyODE2OTgwLC0xMj
+YxMDI2MDc2LC0xNjIyNjAyNzUwLC0xNzAyMzY3NDQwLDE5MDE3
+ODU5MTgsMTU0Mjg3MDQsNzU5MjMzNTg0LC0yMTQxNjYxMjY4LD
+E1MDg0NzMyODIsLTE3ODExNjc1OTIsLTQ4MTc2NTY5OSwtNzQy
+NDkxMzY1LC0xODY4NjY4MjgyLC0xNDU5MDE2NjYxXX0=
 -->
